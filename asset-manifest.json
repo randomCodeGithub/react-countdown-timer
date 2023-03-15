@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-countdown-timer/static/css/main.37d22b13.css",
+    "main.js": "/react-countdown-timer/static/js/main.6e6d2a84.js",
+    "static/js/787.ffa0369f.chunk.js": "/react-countdown-timer/static/js/787.ffa0369f.chunk.js",
+    "static/media/winter-landscape.jpg": "/react-countdown-timer/static/media/winter-landscape.0fdfb3aa2787d463a35e.jpg",
+    "index.html": "/react-countdown-timer/index.html",
+    "main.37d22b13.css.map": "/react-countdown-timer/static/css/main.37d22b13.css.map",
+    "main.6e6d2a84.js.map": "/react-countdown-timer/static/js/main.6e6d2a84.js.map",
+    "787.ffa0369f.chunk.js.map": "/react-countdown-timer/static/js/787.ffa0369f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37d22b13.css",
+    "static/js/main.6e6d2a84.js"
+  ]
+}
