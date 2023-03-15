@@ -1,0 +1,15 @@
+.countdownEl {
+  text-align: center;
+  width: 180px;
+}
+
+.countdownEl span {
+  font-size: 1.3rem;
+}
+
+.bigText {
+  font-weight: bold;
+  font-size: 6rem;
+  line-height: 1;
+  margin: 1rem 0;
+}
