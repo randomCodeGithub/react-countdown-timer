@@ -4,7 +4,7 @@ A simple react js app that shows how much time (days, hours, minutes, seconds) i
 
 ## Demo
 
-View demo [https://randomcodegithub.github.io/react-projects/countdown-timer/](https://randomcodegithub.github.io/react-projects/countdown-timer/).
+View demo [https://randomcodegithub.github.io/react-countdown-timer](https://randomcodegithub.github.io/react-countdown-timer).
 
 ## Instructions
 
